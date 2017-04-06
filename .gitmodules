@@ -1,0 +1,3 @@
+[submodule "father"]
+	path = father
+	url = git@github.com:a1exwang/git_submodule_father.git
